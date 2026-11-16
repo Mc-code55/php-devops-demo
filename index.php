@@ -10,7 +10,7 @@ if (file_exists($environmentFile)) {
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>PHP DevOps Demo</title>
+    <title>PHP DevOps Edit</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,6 +40,7 @@ if (file_exists($environmentFile)) {
         <h1>Student Results Portal</h1>
         <p>Module: CSY3056 DevOps Demo</p>
         <p>This page is being promoted through Dev, Test, Staging, and Production using Jenkins.</p>
+        <p>I made an edit yo </p>
     </div>
 </body>
 </html>
